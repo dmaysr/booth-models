@@ -18,6 +18,6 @@ The model and weights are unchanged from Resemble AI's release, apart from the f
 
 - **Resemble Enhance** © Resemble AI, MIT License. https://github.com/resemble-ai/resemble-enhance (weights: https://huggingface.co/ResembleAI/resemble-enhance)
 - The vocoder includes code adapted from **BigVGAN** (NVIDIA, MIT License) and **alias-free-torch** (junjun3518, Apache License 2.0), as in the original repository.
-- The pipeline recipe (cleaned input, re-synthesis, a quarter of the cleaned voice blended back in) follows **CrispVoice** by Francium Tech (MIT). https://github.com/Francium-Tech/CrispVoice
+- The pipeline recipe (cleaned input, re-synthesis, some of the cleaned voice blended back in) is adapted from **CrispVoice** by Francium Tech (MIT). https://github.com/Francium-Tech/CrispVoice
 
 See `LICENSE` for the full MIT text.
